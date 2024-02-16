@@ -97,9 +97,8 @@ const SignUp = () => {
               )}
               <button
                 type="submit"
-                className="btn hover:bg-orange-500 bg-orange-500 text-white w-full border-orange-500 md:mt-2 mt-3"
-              >
-                SIGN-UP
+                className="btn hover:bg-orange-500 bg-orange-500 text-white w-full border-orange-500 md:mt-2 mt-3" >
+                Sign up
               </button>
               <p className="mt-3 text-center">
                 Already have an account?
